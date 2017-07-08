@@ -8,6 +8,8 @@
 
 This challenge is to find the anomalous purchases in the streaming log data. An anomalous purchase is defined as the purchase with the purchase amount larger than 3 times of standard deviation of the historical T purchases made by a user's D degrees of social network. 
 
+I used python with Pandas package to code the challenge. The source code process_log.py is under the folder src. 
+
 
 # Details of Implementation
 
